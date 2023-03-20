@@ -8,3 +8,7 @@ this is the project i created with the help of python and mysql,feature of the p
 5) view transaction
 
  the database image added with repo
+ 
+ version 
+ mysql-connector-python        8.0.32
+ pytohn 3.10
